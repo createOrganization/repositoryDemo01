@@ -20,6 +20,8 @@
     self.view.backgroundColor =[UIColor cyanColor];
     
     NSLog(@"分支里的一句话");
+    
+    NSLog(@"=====");
 }
 
 - (void)didReceiveMemoryWarning {
